@@ -1,0 +1,5 @@
+C:\Users\Administrator\documents\visual studio 2012\Projects\StudentTest\School\bin\School.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\StudentTest\School\bin\School.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\StudentTest\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2012\Projects\StudentTest\School\obj\Debug\School.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\StudentTest\School\obj\Debug\School.pdb
